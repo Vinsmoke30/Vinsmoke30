@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vinsmoke30
+- 👋 Hi, I’m destiny
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on fullstack or front-end projects
+- 📫 How to reach me destinyamaobi@gmail.com 
 
 <!---
 Vinsmoke30/Vinsmoke30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
